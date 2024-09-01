@@ -1,1 +1,1 @@
-# Web_Development_pratices
+# Web_Development_Pratices
